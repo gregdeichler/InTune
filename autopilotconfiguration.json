@@ -1,0 +1,24 @@
+{
+    "CloudAssignedTenantId":  "8b1f75d2-b3e9-4b3d-a9f2-0b5fac458a8d",
+    "CloudAssignedDeviceName":  "%SERIAL%",
+    "CloudAssignedForcedEnrollment":  1,
+    "Version":  2049,
+    "Comment_File":  "Profile Lenovo Desktops",
+    "CloudAssignedAadServerData":  "{\"ZeroTouchConfig\":{\"CloudAssignedTenantUpn\":\"\",\"ForcedEnrollment\":1,\"CloudAssignedTenantDomain\":\"vassar.edu\"}}",
+    "CloudAssignedOobeConfig":  28,
+    "CloudAssignedDomainJoinMethod":  0,
+    "ZtdCorrelationId":  "22d6f107-8c5a-4cb3-88ae-d4e449dab05b",
+    "CloudAssignedTenantDomain":  "vassar.edu"
+}
+{
+    "CloudAssignedTenantId":  "8b1f75d2-b3e9-4b3d-a9f2-0b5fac458a8d",
+    "CloudAssignedDeviceName":  "%SERIAL%",
+    "CloudAssignedForcedEnrollment":  1,
+    "Version":  2049,
+    "Comment_File":  "Profile AutoPilot Static",
+    "CloudAssignedAadServerData":  "{\"ZeroTouchConfig\":{\"CloudAssignedTenantUpn\":\"\",\"ForcedEnrollment\":1,\"CloudAssignedTenantDomain\":\"vassar.edu\"}}",
+    "CloudAssignedOobeConfig":  28,
+    "CloudAssignedDomainJoinMethod":  0,
+    "ZtdCorrelationId":  "995e57ea-867a-415d-8461-a5415a0c9816",
+    "CloudAssignedTenantDomain":  "vassar.edu"
+}
